@@ -1,0 +1,46 @@
+body{
+    background: white   
+    }
+.card{
+    border: none;
+    height: 100%;
+    background-color: #0B3A97;
+    }
+
+    .botoncajero{
+        height: 100%;
+        float: right;
+        background-color: #01B4F5;
+        font-size: 20px
+    }
+
+    .divboton{
+        height:80px;
+    }
+
+    .infocuenta{
+        height: 100%;
+    }
+
+    h1{
+        font-size: 1.5vw;
+        color: white;
+    }
+
+    h5{
+        font-size: 1vw;
+        color: white;
+    }
+
+    .cerrarsesion{
+        font-size: .8vw;
+    }
+
+    p{
+        font-size: 1vw;
+        color: white;
+    }
+
+    .bienvenido{
+        color:#01B4F5;
+    }
